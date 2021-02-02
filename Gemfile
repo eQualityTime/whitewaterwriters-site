@@ -11,3 +11,5 @@ gem "sanitize"
 group :test do
   gem "rspec"
 end
+
+gem 'jekyll-sitemap'
