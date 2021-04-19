@@ -19,12 +19,6 @@ layout: default
 </div>
 
 <div>
-  <label for="school">School
-  </label>
-    <input type="text" name="name" id="school" placeholder="School name" required="">
-</div>
-
-<div>
   <label for="email-address">Email Address
   </label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
