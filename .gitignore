@@ -1,8 +1,6 @@
-.sass-cache/
-# images/covers/
+_site
+.*
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-*.swp
-# *.xml
-# *.json
-*.code-workspace
-.byebug_history
+vendor
