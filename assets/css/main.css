@@ -1,5 +1,36 @@
 /* Structure */
 
+
+blockquote {
+    font-family: Georgia, serif;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    max-width: 1050px;
+    padding: 0 20px;
+    font-size: 1.35em;
+    font-style: italic;
+    width: 500px;
+    /*padding: 0.35em 40px;*/
+    line-height: 1.45;
+    position: relative;
+    color: #383838;
+}
+
+
+
+blockquote cite {
+    color: #999999;
+    font-size: 14px;
+    display: block;
+    margin-top: 5px;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
+/* Blockquotes from https://stackoverflow.com/questions/16325687/make-big-quotes-with-blockquote */
+
+
 fieldset{
 margin: 1em 0;
 padding: 1em;
@@ -24,7 +55,7 @@ width: 20em;
 body {
   margin: 0;
   font-family: "Amiri", Georgia, serif;
-  font-size: 28px;
+  font-size: 20px;
   color: #232323;
   display: flex;
   min-height: 100vh;
@@ -34,10 +65,11 @@ body {
 p {
   color: #232323;
   font-family: "Amiri", Georgia, serif;
+  text-align: left;
   font-size: 0.75em;
   line-height: 34px;
   margin: 0 auto;
-  max-width: 1250px;
+  max-width: 1050px;
   padding: 0 20px;
 }
 
@@ -67,7 +99,7 @@ header {
 
 section {
   margin: 0 auto;
-  max-width: 1250px;
+  max-width: 1050px;
   padding: 0 20px;
 }
 
@@ -101,6 +133,7 @@ aside {
 h1 {
   opacity: 0.95;
   font-size: 1em;
+  margin-top:20px;
 }
 
 @media (min-width: 1110px) {
@@ -141,7 +174,7 @@ p {
   font-size: 0.75em;
   line-height: 34px;
   margin: 0 auto;
-  max-width: 1250px;
+  max-width: 1050px;
   padding: 40px 20px 0px 20px;
 }
 
@@ -155,7 +188,7 @@ li {
   font-size: 0.75em;
   line-height: 34px;
   margin: 0 auto;
-  max-width: 1250px;
+  max-width: 1050px;
   padding: 0 20px;
 }
 
@@ -168,6 +201,29 @@ a {
 a:hover {
   border-bottom: 4px solid #232323;
 }
+
+.link-container {
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+margin-top:25px;
+margin-bottom:25px;
+padding:10px;
+}
+
+a.box:hover{
+  border-bottom: 0px solid #232323;
+}
+a.box {
+ background-color: #2689D5;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  width:50%;style:block;margin-left:auto;margin-right:auto;
+  margin-top: 25px;
+} 
+
 
 .bookstore {
   margin: 20px 10px 10px 0;
@@ -253,11 +309,13 @@ ul.covers-container {
   box-shadow: 2px 2px 8px #aaaeb9;
 }
 
-img {
-  font-family: "Noto Sans", Arial, sans-serif;
-  font-size: 12px;
-  line-height: 1.8;
-  width: 98%;
+
+img {margin: auto;
+  display: block; width:50%}
+
+@media only screen and (max-width: 600px) {
+ img {width: 100%; height: 100%; margin: 0; padding: 0;}
+a.box {width: 100%; padding:14px 15px;  font-size: 0.75em;}
 }
 
 .cover--home {
@@ -411,6 +469,9 @@ footer li a:hover {
 hr {
   border: 2px solid #f1f1eb;
 }
+
+
+
 
 .massive {
   font-size: 120px;
