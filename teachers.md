@@ -20,6 +20,8 @@ We are interested in young people who need something different.  They might be g
 
 Using the TooManyCooks process, we bring out the writing skills of our authors using a combination of structured planning and peer-lead review to produce jaw-dropping long form prose. In practical terms that means we turn up on Monday morning, take ten students out of lessons for a week, and lead them through a set of exercises and activities until on Friday afternoon we gather around and click 'publish' on Amazon's author platform. In that week, we see our writers grow more than we ever expect. 
 
+We're a charity project, so you pay what it costs us to run.  For a single camp that works out at £1,400, which is mostly staff time. Please see [here](https://equalitytime.co.uk/6417/2020/03/02/analysis-of-white-water-writers-camp-costs/) for a full breakdown of costs.
+
 
 <blockquote><q>
 It was difficult selecting the students because of [NCOP]. So there were some where I thought oh God how they going to managed? Because maybe writing isn’t their strong point but actually to see it all come together, how they worked and how they became so dedicated to the book, didn’t they? They just wanted it to be a success and they really genuinely cared about how successful it was. So I think from that I was like ‘oh wow, I wish you cared this much about MacBeth’.
@@ -40,6 +42,8 @@ All you have to do to get one, or enquire more generally, is click the box below
 <div class="link-container">
 <a class="box" href="{{site.baseurl}}/contact">Contact Us</a>  
 </div>
+
+
 
 
 <img src="images/index.png" alt="A pile of books" />

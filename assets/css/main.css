@@ -62,16 +62,6 @@ body {
   flex-direction: column;
 }
 
-p {
-  color: #232323;
-  font-family: "Amiri", Georgia, serif;
-  text-align: left;
-  font-size: 0.75em;
-  line-height: 34px;
-  margin: 0 auto;
-  max-width: 1050px;
-  padding: 0 20px;
-}
 
 header {
   padding: 30px;
@@ -168,27 +158,22 @@ h3 {
   font-family: "Noto sans", Arial, sans-serif;
 }
 
-p {
+p, li {
   color: #232323;
   font-family: "Amiri", Georgia, serif;
-  font-size: 0.75em;
+  text-align: left;
+  font-size: 1.0em;
   line-height: 34px;
   margin: 0 auto;
   max-width: 1050px;
+  padding: 0 20px;
   padding: 40px 20px 0px 20px;
 }
 
 /* Lists */
-ul {
-}
+
 
 li {
-  color: #232323;
-  font-family: "Amiri", Georgia, serif;
-  font-size: 0.75em;
-  line-height: 34px;
-  margin: 0 auto;
-  max-width: 1050px;
   padding: 0 20px;
 }
 
