@@ -32,7 +32,7 @@ It was difficult selecting the students because of [NCOP]. So there were some wh
 As a teacher, you know lots of students who might really benefit from this, but you have probably also seen lots of external groups over-promise and under-deliver.  That's actually our big problem as an organisation - nobody believes what we do is real until they see it. We have lots of wonderful repeat customers, and we adore going back to the same schools year after year, but we would like to reach more and more writers.
 <br><br>
 
-<h2> Here's what we do try and be a reassuring as possible: </h2>
+<h2> Here's what we do try and be as reassuring as possible: </h2>
 
 * First, we work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
 * Second, we'll send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
