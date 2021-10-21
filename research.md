@@ -5,7 +5,7 @@ layout: default
   <h1>Research</h1>
 </header>
 
-White Water Writers has worked with a wide range of academics over the last ten years. The executive summary is that, for all groups studied, the were significant (p<0.05) positive change in writer's self evaluation of their understanding of how to write a novel, their ability to work under pressure, their ability to communicate their ideas both in writing and verbally, working in a team, and giving and receiving constructive feedback. Similar increases were recorded in writers' Locus of Control (how much the writers felt they were in charge of their future, as opposed to being controlled by outside events, and in how they felt about intelligence: after the camp, writers were much more likely to believe that people's intelligence could change over time. 
+White Water Writers has worked with a wide range of academics over the last ten years. The executive summary is that, for all groups studied, the were significant (p<0.05) positive change in writer's self evaluation of their understanding of how to write a novel, their ability to work under pressure, their ability to communicate their ideas both in writing and verbally, working in a team, and giving and receiving constructive feedback. Similar increases were recorded in writers' Locus of Control (how much the writers felt they were in charge of their future, as opposed to being controlled by outside events), and in how they felt about intelligence: after the camp, writers were much more likely to believe that people's intelligence could change over time. 
 
 # Publications 
 

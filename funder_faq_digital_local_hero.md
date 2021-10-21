@@ -38,6 +38,7 @@ Our theory of change can be download [here](https://github.com/eQualityTime/Publ
 
 eQuality Time’s mission is to employ original critical thinking to solve problems of inclusion and equality through the use of technology and education.   In practice this means we have ideas for projects, we apply for funding to prototype or scale them up, and then we work to make them self-funding. 
 
+## What are the main activities that your organisation undertake? (maximum 300 words)
 Our flagship projects are White Water Writers, a young adult fiction publisher that has ensured over 2,000 children have held in their hands a book they have written, and Open Voice Factory, an open source software project for people with communication disabilities. Both these projects started with seed funding for a pilot and then became self sustaining. 
 
 ## What is the geographical spread of your work? 

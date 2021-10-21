@@ -20,6 +20,15 @@ During days two and three writers draft the content:  when two or more character
 
 From day four writers are rewriting, copyediting and proofreading, focusing on their own character but acting as sounding boards and second opinions for other writers so that themes can be reinforced and other aspects of style can be made rigorous.  
 
+## How does your process work?  (200 words version) 
+It takes five days. On day one they repeatedly plan a narrative at increasing detail.   The characters that drive the narrative are identified early and then assigned to writers (normally one per writer).  
+
+From then on, writers only work on content that involves their character. They have to trust that other writers are making their own characters engaging and consistent.  This ensures consistent characterisation, no plot holes, and high levels of motivation.
+
+By the end of day one the writers should have completely storyboarded the novel as a team. 
+Writers draft prose on days two and three. (when multiple characters are in a scene one writer will outline, another will draft, another will redraft). This constant redrafting balances consistent style and character voice. 
+
+For days four and five the writers rewrite, copyedit and proofread. They focus on their own character but acting as sounding boards for other writers so that themes can be reinforced and other aspects of style can be made rigorous.  
 
 
 # Professional Writers project
