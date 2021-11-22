@@ -40,7 +40,7 @@ As a teacher, you know lots of students who might really benefit from this, but 
 All you have to do to get one, or enquire more generally, is click the box below to Contact Us and let us know what school to send it to. 
 
 <div class="link-container">
-<a class="box" href="{{site.baseurl}}/contact">Contact Us</a>  
+<a class="box" href="{{site.baseurl}}/contact.html">Contact Us</a>  
 </div>
 
 
