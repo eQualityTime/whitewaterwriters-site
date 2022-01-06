@@ -34,7 +34,7 @@ As a teacher, you know lots of students who might really benefit from this, but 
 
 <h2> Here's what we do try and be as reassuring as possible: </h2>
 
-* First, we work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
+* First, we work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research.html) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
 * Second, we'll send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
 
 All you have to do to get one, or enquire more generally, is click the box below to Contact Us and let us know what school to send it to. 
