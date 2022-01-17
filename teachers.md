@@ -16,11 +16,21 @@ Being selected for the project has made the students realise that staff see, and
 
 </blockquote>
 
-We are interested in young people who need something different.  They might be gifted and talented students who aren't being stretched, they might be writers who are having trouble with how education is structured. We've worked with writers from Dunfermline to Nigeria to Amsterdam to Tokyo, from ages 10 to adult, and from top-tier university to category B prison.
+We are interested in young people who need something different.  They might be gifted and talented students who aren't being stretched, they might be writers who are having trouble with how education is structured. We've worked with writers across the UK, along with Nigeria, the Netherlands, and Japan.  
 
-Using the TooManyCooks process, we bring out the writing skills of our authors using a combination of structured planning and peer-lead review to produce jaw-dropping long form prose. In practical terms that means we turn up on Monday morning, take ten students out of lessons for a week, and lead them through a set of exercises and activities until on Friday afternoon we gather around and click 'publish' on Amazon's author platform. In that week, we see our writers grow more than we ever expect. 
+As a teacher, you know lots of students who might really benefit from this, but you have probably also seen lots of external groups over-promise and under-deliver.  That's our big problem as an organisation: nobody believes what we do is real until they see it. We have lots of wonderful repeat customers, and we adore going back to the same schools year after year, but we would like to reach more and more writers.
 
-We're a charity project, so you pay what it costs us to run.  For a single camp that works out at £1,400, which is mostly staff time. Please see [here](https://equalitytime.co.uk/6417/2020/03/02/analysis-of-white-water-writers-camp-costs/) for a full breakdown of costs.
+Here's what we do try and be as reassuring as possible: 
+
+* We work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
+* We are transparent about our costs: you pay what it costs us to run.  For a single camp that works out at £1,400, which is mostly staff time. You can see a complete breakdown of costs [here](https://equalitytime.co.uk/6417/2020/03/02/analysis-of-white-water-writers-camp-costs/). 
+* We send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
+
+To get your free sample book, or enquire more generally, click the box below to let us know which school to send it to. 
+
+<div class="link-container">
+<a class="box" href="{{site.baseurl}}/contact.html">Contact Us For Your Free Book!</a>  
+</div>
 
 
 <blockquote><q>
@@ -28,22 +38,6 @@ It was difficult selecting the students because of [NCOP]. So there were some wh
 </q>
 <cite>Member of staff at a multi-academy trust</cite>
 </blockquote> 
-
-As a teacher, you know lots of students who might really benefit from this, but you have probably also seen lots of external groups over-promise and under-deliver.  That's actually our big problem as an organisation - nobody believes what we do is real until they see it. We have lots of wonderful repeat customers, and we adore going back to the same schools year after year, but we would like to reach more and more writers.
-<br><br>
-
-<h2> Here's what we do try and be as reassuring as possible: </h2>
-
-* First, we work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
-* Second, we'll send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
-
-All you have to do to get one, or enquire more generally, is click the box below to Contact Us and let us know what school to send it to. 
-
-<div class="link-container">
-<a class="box" href="{{site.baseurl}}/contact.html">Contact Us</a>  
-</div>
-
-
 
 
 <img src="images/index.png" alt="A pile of books" />
