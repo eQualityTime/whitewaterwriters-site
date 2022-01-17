@@ -157,7 +157,7 @@ h3 {
   font-family: "Noto sans", Arial, sans-serif;
 }
 
-p, li {
+p,  form, li {
   color: #232323;
   font-family: "Amiri", Georgia, serif;
   text-align: left;

@@ -5,7 +5,9 @@ layout: default
   <h1>Contact</h1>
 </header>
 
-<p>We can be emailed at <a href="mailto:admin@whitewaterwriters.com">contact@whitewaterwriters.com</a>, called on 07703683028 or contacted using the form below.</p>
+We send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
+
+To get your free sample book, or enquire more generally, email us, or fill in the form below to let us know which school to send it to. We can be emailed at <a href="mailto:admin@whitewaterwriters.com">contact@whitewaterwriters.com</a>, called on 07703683028 or contacted using the form below.
 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgepgjbw" method="post">
