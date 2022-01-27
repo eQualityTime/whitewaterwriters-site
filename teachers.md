@@ -22,7 +22,7 @@ As a teacher, you know lots of students who might really benefit from this, but 
 
 Here's what we do try and be as reassuring as possible: 
 
-* We work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
+* We work a lot with researchers who collected a lot of data and write it up nicely.  We've got a whole page for [our research](research.html) and you can see how we've explored the overall long term effects on grades (students average about half a grade higher in their English GCSE)  
 * We are transparent about our costs: you pay what it costs us to run.  For a single camp that works out at £1,400, which is mostly staff time. You can see a complete breakdown of costs [here](https://equalitytime.co.uk/6417/2020/03/02/analysis-of-white-water-writers-camp-costs/). 
 * We send a free sample book to any teacher that asks for one. Having a glance through the finished article gives you a clear, visceral understanding of what we do and what your students can do. 
 
