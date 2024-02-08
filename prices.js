@@ -57,10 +57,12 @@ function total_price(camps, copies, local, summer){
 function pricetext(camps,copies_per_camp, local, summer) {
 
 var num_word = ['zero','one','two','three','four', 'five','six','seven','eight','nine'];
-output = `<p>You are interested in working with ${camps*10} students, who will work in groups of ten and produce ${num_word[camps]} novels. The cost breaks down as follows:</p><ul>`;
+var novel_num_word = ['zero novels','one novel','two novels','three novels','four novels', 'five novels','six novels','seven novels','eight novels','nine'];
+var staff_num_word = ['zero members of staff','one member of staff','two members of staff','three members of staff','four members of staff', 'five members of staff','six members of staff','seven members of staff','eight members of staff','nine'];
+output = `<p>You are interested in working with ${camps*10} students, who will work in groups of ten and produce ${novel_num_word[camps]}. The cost breaks down as follows:</p><ul>`;
 
 
-output += `<li>The project will need ${num_word[camps]} staff on the first day and ${num_word[Math.ceil(camps/2)]} staff for the remainder of the week (in large camps, one member of staff can supervise two groups for part of the process).  That's a total of ${staff_days(camps)} staff days.`
+output += `<li>The project will need ${staff_num_word[camps]} on the first day and ${staff_num_word[Math.ceil(camps/2)]} for the remainder of the week (in large camps, one member of staff can supervise two groups for part of the process).  That's a total of ${staff_days(camps)} staff days.`
 
 if (local){
 output+= "<li>The camp is local to us, so there are no additional transport costs."
@@ -76,7 +78,7 @@ output+= "<li>June and July are very busy months for us and we have introduced a
 
 output+= `<li>The total staff cost is £${staff_cost(camps,local)}.`;
 output+= `<li>${copies_per_camp} books at £${single_copy_cost} each is £${copies_per_camp*single_copy_cost}.`;
-output+= `<li>Cover design, typesetting, core costs, server fees, software maintainence, ect come to £${single_camp_cost}.` 
+output+= `<li>Cover design, typesetting, core costs, server fees, software maintenance, ect come to £${single_camp_cost}.` 
 output+= `<li>The total cost would therefore be: £${total_price(camps,copies_per_camp,local, summer)}.`;
 
 return output;
