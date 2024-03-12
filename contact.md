@@ -37,6 +37,8 @@ To get your free sample book, or enquire more generally, email us, or fill in th
 </fieldset>
 </form>
 
+We'll also add you to a mailing list for news on the project. We promise no more than one email a term. 
+
 <!-- Event snippet for Go to Contact page. conversion page -->
 <script>
   gtag('event', 'conversion', {'send_to': 'AW-475509944/YLa-CPSQvvkBELjp3uIB'});
